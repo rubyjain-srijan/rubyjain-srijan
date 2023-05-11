@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rubyjain-srijan
-- 👀 I’m interested in Front-End Dev(JS & React)
+- 👀 I’m interested in Front End Projects(JS & React)
 - 🌱 I’m a passionate learner!
 - 💞️ I’m looking to collaborate on Front-End(JS & React)
 - 📫 How to reach me rjflyhigh21@gmail.com
