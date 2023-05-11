@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rubyjain-srijan
+- 👋 Hi, I’m a Front End Developer
 - 👀 I’m interested in Front End(JS & React)
 - 🌱 I’m a passionate learner!
 - 💞️ I’m looking to collaborate on Front End Projects(JS & React)
