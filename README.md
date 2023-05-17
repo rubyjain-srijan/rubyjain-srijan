@@ -17,6 +17,7 @@
 - 🔧    VS Code
 
 ## Find me around the web 🌍
-<a href="https://github.com/rubyjain-srijan"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="50" height="50" alt="github"> </a>      <a href="https://www.linkedin.com/in/ruby-jain-0032a1144"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" width="120" height="70" alt="linkedin"></a>   
+<a href="https://github.com/rubyjain-srijan"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="50" height="50" alt="github"> </a>      <a href="https://www.linkedin.com/in/ruby-jain-0032a1144">
+        <img align="center" height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/></a>   
 <br><div>
         ![](https://komarev.com/ghpvc/?username=rubyjain-srijan&color=brightgreen) 
