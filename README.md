@@ -1,4 +1,4 @@
-# Hi, I'm Ruby <img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="60" height="60" alt="gif">👩‍💻
+# Hi there, I'm Ruby <img align="center" src="https://i.pinimg.com/originals/b9/37/12/b9371273ae94a946e92074d1b9696680.gif" width="60" height="60" alt="gif">👩‍💻
 <img align="center" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" width="400" height="300" alt="girl coding img" >
 
 ## 👩🏼‍💼 About Me
@@ -17,4 +17,6 @@
 - 🔧    VS Code
 
 ## Find me around the web 🌍
-<a href="https://github.com/rubyjain-srijan"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="50" height="50" alt="github"> </a>      <a href="https://www.linkedin.com/in/ruby-jain-0032a1144"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" width="120" height="70" alt="linkedin"></a>
+<a href="https://github.com/rubyjain-srijan"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="50" height="50" alt="github"> </a>      <a href="https://www.linkedin.com/in/ruby-jain-0032a1144"><img align="center" src="https://logos-world.net/wp-content/uploads/2020/04/Linkedin-Logo.png" width="120" height="70" alt="linkedin"></a>   
+<br><div>
+        ![](https://komarev.com/ghpvc/?username=rubyjain-srijan&color=brightgreen) 
