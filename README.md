@@ -8,13 +8,27 @@
 - 💞️ I’m looking to collaborate on Front End Projects(JS & React)
 - 📩 How to reach me ruby.jain@srijan.net
 
-## 👩🏼‍💻  Tech Stack
-- 💻📱  Responsive Web & Mobile Apps (Android & IOS)
-- 🛠    HTML5 CSS JavaScript Typescript ES6 React.js React-Query Redux React-Native Node.js
-- 🌐    Bootstrap Styled-Components Storybook MaterialUI ChakraUI
-- 🛢    MySQL
-- ⚙️     Git GitHub 
-- 🔧    VS Code
+## 👩🏻‍💻  Tech Stack 
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%23323330.svg?style=for-the-badge&logo=react&logoColor=blue)
+![React-Native](https://img.shields.io/badge/react-native-%23323330.svg?style=for-the-badge&logo=react-native&logoColor=blue)
+![Storybook](https://img.shields.io/badge/storybook-%23323330.svg?style=for-the-badge&logo=storybook&logoColor=pink)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23323330.svg?style=for-the-badge&logo=bootstrap&logoColor=%23F7DF1E)
+![MUI](https://img.shields.io/badge/mui-%23323330.svg?style=for-the-badge&logo=mui&logoColor=%23F7DF1E)
+![Chakra](https://img.shields.io/badge/chakra-%23323330.svg?style=for-the-badge&logo=chakraui&logoColor=blue)
+![Tanstack-Query](https://img.shields.io/badge/tanstack-query-%23323330.svg?style=for-the-badge&logo=tanstack-query&logoColor=%23F7DF1E)
+![Typescript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=blue)
+![Redux](https://img.shields.io/badge/redux-%23323330.svg?style=for-the-badge&logo=redux&logoColor=pink)
+![node.js](https://img.shields.io/badge/node.js-%23323330.svg?style=for-the-badge&logo=node.js&logoColor=green)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ruby-Jain&layout=donut&text_bold=true&include_all_commits=true&theme=tokyonight&card_width=250&show_icons=true&hide=swift&langs_count=7)](https://github.com/Ruby-Jain/github-readme-stats)
 
 ## Find me around the web 🌍
 <a href="https://github.com/rubyjain-srijan"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/2048px-Octicons-mark-github.svg.png" width="50" height="50" alt="github"> </a>      <a href="https://www.linkedin.com/in/ruby-jain-0032a1144">
